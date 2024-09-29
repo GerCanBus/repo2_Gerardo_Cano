@@ -1,4 +1,4 @@
-# REPO-BASURA
+# REPO-2-IAW
 
 - 👋 Hi, Soy @GerCanBus
 - 👀 Estoy interesado en la fotografía, Big Data e Inteligencia Artificial
